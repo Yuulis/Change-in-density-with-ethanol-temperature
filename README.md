@@ -9,4 +9,5 @@ data.csv : http://www.alcohol.jp/expert/list/01mitsudo60_100.html より。
 
 <div style="text-align: center;">※決定係数 R^2 = 0.9990012023591596</div>
 
-![image](https://user-images.githubusercontent.com/79734873/153428026-01b112cd-f3fd-4181-a5dd-693dbaef9260.png)
+![image](https://user-images.githubusercontent.com/79734873/153428225-6d0bd64f-d29c-4192-afa4-e5b32cd2f7e4.png)
+
